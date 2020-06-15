@@ -29,6 +29,7 @@ RETURN
 Send, {LCtrl Down}f{LCtrl Up}
 RETURN
 
+;For entering URL Bar of Web Browsers
 !l::
 Send, {LCtrl Down}l{LCtrl Up}
 RETURN
