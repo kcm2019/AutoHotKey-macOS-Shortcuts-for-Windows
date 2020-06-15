@@ -28,6 +28,10 @@ RETURN
 Send, {LCtrl Down}f{LCtrl Up}
 RETURN
 
+!l::
+Send, {LCtrl Down}l{LCtrl Up}
+RETURN
+
 !n::
 Send, {LCtrl Down}n{LCtrl Up}
 RETURN
